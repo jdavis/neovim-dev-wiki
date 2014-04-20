@@ -1,0 +1,8 @@
+safe: true
+pygments: true
+permalink: pretty
+markdown: rdiscount
+
+exclude:
+    - README.md
+    - LICENSE
