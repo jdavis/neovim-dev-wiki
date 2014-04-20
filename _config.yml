@@ -3,6 +3,8 @@ pygments: true
 permalink: pretty
 markdown: rdiscount
 
+url: http://neovim.org/development-wiki/
+
 exclude:
     - README.md
     - LICENSE
