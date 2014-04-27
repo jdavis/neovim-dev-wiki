@@ -3,6 +3,7 @@ pygments: true
 permalink: pretty
 markdown: rdiscount
 
+title: Neovim
 url: http://neovim.org/development-wiki/
 
 exclude:
